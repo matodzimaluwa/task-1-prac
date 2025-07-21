@@ -1,0 +1,57 @@
+history
+    1  node -v
+    2  mkdir hello-world
+    3  cd hello-world
+    4  touch index.js
+    5  echo 'console.log("hellow world")
+    6  git init
+    7  echo 'console.log("hellow world");' > index.js
+    8  git init
+    9  git add
+   10  git add .
+   11  git commit -m"add hellow.js with hellow world"
+   12  git remote add origin https://github.com/matodzimaluwa/hello-world.git
+   13  git push origin master
+   14  https://github.com/matodzimaluwa/task-1-prac.git~
+   15  cd
+   16  ```bash
+   17  git clone https://github.com/matodzimaluwa/task-1-prac.git
+   18  cd task-1-prac
+   19  cd shell_architecture_hands_on.md
+   20  cd ~in
+   21  git pull origin main
+   22  cd in  https://github.com/matodzimaluwa/task-1-prac.git
+   23  cd
+   24  git pull main origin
+   25  cd shell_architecture_hands_on.md
+   26  code .
+   27  cd
+   28  git clone https://github.com/matodzimaluwa/task-1-prac.git
+   29  cd task-1-prac
+   30  git pull origin main
+   31  cd shell_architecture_hands_on.md
+   32  cd ~
+   33  cd Desktop
+   34  cd
+   35  ls
+   36  cd task-1-prac
+   37  lsd
+   38  c
+   39  cd task-1-prac
+   40  cd desktop
+   41  cd task-1-prac
+   42  git clone https://github.com/londeka-z/task-1-prac.git
+   43  code .
+   44  echo "The shell is my translator to the OS"
+   45  Run the following commands:
+   46  pwd
+   47  ls
+   48  mkdir Documents
+   49  cd Documents
+   50  cd ..
+   51  nano shell_intro.sh
+   52  chmod +x shell_intro.sh
+   53  ./shell_intro.sh
+   54  touch reflection.txt
+   55  histoy
+   56  history
