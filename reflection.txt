@@ -1,0 +1,10 @@
+what is the purpose of shell 
+accepts the txt commands
+translate systems calls
+returns human readable results
+
+What did you learn by running shell commands?
+that the shell is a tranlator between me and the computer
+
+- How was using the terminal different from clicking through folders?
+it gives you more direct control to operating system
